@@ -1,3 +1,3 @@
-# ROT-Cypher-Decoder
+# ROT-Cipher-Decoder
 
 Simple python rotational cipher decoder
